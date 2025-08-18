@@ -63,7 +63,7 @@
 ---
 
 ### 🐍 Watch my Contributions Snake
-![snake gif](https://github.com/kp21-07/kp21-07/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/kp21-07/kp21-07/blob/output/snake.svg)
 
 ---
 
