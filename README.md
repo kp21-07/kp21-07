@@ -23,6 +23,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kp21-07&show_icons=true&theme=gruvbox" alt="stats" height="250"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kp21-07&theme=gruvbox" alt="streak" height="250"/>
 </p>
 
