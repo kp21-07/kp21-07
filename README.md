@@ -73,10 +73,10 @@
 
 ### Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/parjanya-k">
     <img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=83A598"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.email@kparjanya21@gmail.com">
     <img src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=FB4934"/>
   </a>
 </p>
