@@ -3,17 +3,16 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE8019&center=true&vCenter=true&width=435&lines=Hello!;I'm+Parjanya;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE8019&center=true&vCenter=true&width=435&lines=Hello+there!;I'm+Parjanya;" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### About Me
-- 🎓 Student, exploring **Python, C++, JavaScript, and more**
-- 💻 Interested in **Web Development, Competitive Programming, and System Design**
-- 📚 Learning **Neovim, LSPs, and building cool projects**
-- ⚡ Fun fact: I love breaking problems into smaller chunks and solving them step by step 😄
+- Freshman at IIT Palakkad, exploring **Python, C++, JavaScript, and more**
+- Interested in **Web Development, Competitive Programming, and Cybersecurity**
+- Learning **Neovim, Svelte, C++, and building cool stuff**
 
 ---
 
