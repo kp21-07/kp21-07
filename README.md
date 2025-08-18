@@ -62,11 +62,6 @@
 
 ---
 
-### 🐍 Watch my Contributions Snake
-![snake animation](https://github.com/kp21-07/kp21-07/blob/output/snake.svg)
-
----
-
 <!-- ### 🚀 Featured Projects
 - 🔗 [30 Days of Python](https://github.com/kp21-07) — My coding challenge: building small Python apps daily
 - 🔗 [Neovim Config](https://github.com/kp21-07) — Setting up autocomplete, LSP, and snippets in Neovim
