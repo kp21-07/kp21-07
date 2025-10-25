@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-- Freshman at IIT Palakkad, exploring **Python, C++, JavaScript, and more**
+- Sophmore at IIT Palakkad, exploring **Python, C++, JavaScript, and more**
 - Interested in **Web Development, Competitive Programming, and Cybersecurity**
 - Learning **Neovim, Svelte, C++, and building cool stuff**
 
