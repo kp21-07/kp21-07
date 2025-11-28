@@ -10,9 +10,9 @@
 ---
 
 ### About Me
-- Sophmore at IIT Palakkad, exploring **Python, C++, JavaScript, and more**
-- Interested in **Web Development, Competitive Programming, and Cybersecurity**
-- Learning **Neovim, Svelte, C++, and building cool stuff**
+- 2nd Year at IIT Palakkad, exploring **Python, C++, JavaScript, and more**
+- Interested in **Web Development, Graphics Programming and Operating Systems**
+- Learning **Neovim, C++, Rust and building cool stuff**
 
 ---
 
@@ -73,7 +73,7 @@
 
 ### Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/parjanya-k">
+  <a href="https://linkedin.com/in/kparjanya21">
     <img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=83A598"/>
   </a>
   <a href="mailto:kparjanya21@gmail.com">
