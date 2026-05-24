@@ -45,11 +45,11 @@ I'm passionate about writing clean, efficient code and diving deep into how thin
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kp21-07&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kp21-07)
+<img src="https://github-readme-stats.vercel.app/api?username=kp21-07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kp21-07&theme=tokyonight&hide_border=true)](https://github.com/kp21-07)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kp21-07&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kp21-07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kp21-07)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kp21-07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -59,9 +59,9 @@ I'm passionate about writing clean, efficient code and diving deep into how thin
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kp21-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)
+<img src="https://github-profile-trophy.vercel.app/?username=kp21-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kp21-07&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kp21-07&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -71,7 +71,7 @@ I'm passionate about writing clean, efficient code and diving deep into how thin
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kparjanya21?theme=dark&font=Fira%20Code&ext=contest)
+<img src="https://leetcard.jacoblin.cool/kparjanya21?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 
 </div>
 
