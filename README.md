@@ -53,11 +53,13 @@ I'm passionate about writing clean, efficient code and diving deep into how thin
 
 ---
 
-## 🎯 LeetCode Progress
+## 🎯 Competitive Programming
 
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kparjanya21?theme=dark&font=Fira%20Code&ext=contest)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/v2/user.info?handles=kparjanya21)
 
 </div>
 
