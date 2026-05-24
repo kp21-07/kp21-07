@@ -59,7 +59,7 @@ I'm passionate about writing clean, efficient code and diving deep into how thin
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kparjanya21?theme=dark&font=Fira%20Code&ext=contest)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/v2/user.info?handles=kparjanya21)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kparjanya21)
 
 </div>
 
@@ -72,6 +72,7 @@ I'm passionate about writing clean, efficient code and diving deep into how thin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kparjanya21)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kparjanya21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kp21-07)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kparjanya21)
 
 </div>
 
