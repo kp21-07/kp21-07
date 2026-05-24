@@ -1,82 +1,96 @@
-<!-- Profile README for kp21-07 -->
+<!-- 🎨 Profile README for kp21-07 -->
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE8019&center=true&vCenter=true&width=435&lines=Hello+there!;I'm+Parjanya;" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### About Me
-- 2nd Year at IIT Palakkad, exploring **Python, C++, JavaScript, and more**
-- Interested in **Web Development, Graphics Programming and Operating Systems**
-- Learning **Neovim, C++, Rust and building cool stuff**
-
----
-
-### GitHub Stats
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kp21-07&theme=gruvbox&margin-w=15&margin-h=15)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kp21-07&show_icons=true&theme=gruvbox" alt="stats" height="250"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kp21-07&theme=gruvbox" alt="streak" height="250"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kp21-07&layout=compact&theme=gruvbox" alt="langs" height="250"/>
-</p>
-
----
-
-### Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kp21-07&theme=gruvbox" alt="activity graph" width="800" height="300"/>
+
+# 👋 Hey, I'm Parjanya
+
+### Building **elegant code** • Exploring **systems** • Crafting **web experiences**
+
 </div>
 
 ---
 
-### LeetCode Stats
+## 🚀 About Me
+
+```
+📍 IIT Palakkad | 2nd Year Student
+🛠️  Languages: Python • C++ • JavaScript • Rust
+🎯 Focus: Web Development • Graphics Programming • Operating Systems  
+💡 Currently Learning: Neovim • Systems Programming • Modern C++
+```
+
+I'm passionate about writing clean, efficient code and diving deep into how things work under the hood. When I'm not coding, you'll find me experimenting with new tools or working on interesting side projects.
+
+---
+
+## 💻 Tech Stack
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kparjanya21?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
 </div>
 
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kp21-07&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kp21-07)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kp21-07&theme=tokyonight&hide_border=true)](https://github.com/kp21-07)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kp21-07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kp21-07)
+
+</div>
 
 ---
 
-### Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=FABD2F"/>
-  <img src="https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=c%2B%2B&logoColor=FE8019"/>
-  <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=FABD2F"/>
-  <img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=FB4934"/>
-  <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3&logoColor=83A598"/>
-  <img src="https://img.shields.io/badge/Node.js-282828?style=for-the-badge&logo=node.js&logoColor=B8BB26"/>
-  <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=FE8019"/>
-  <img src="https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=D79921"/>
-  <img src="https://img.shields.io/badge/Neovim-282828?style=for-the-badge&logo=neovim&logoColor=8EC07C"/>
-</p>
+## 🏆 Achievements & Activity
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kp21-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kp21-07&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
-<!-- ### 🚀 Featured Projects
-- 🔗 [30 Days of Python](https://github.com/kp21-07) — My coding challenge: building small Python apps daily
-- 🔗 [Neovim Config](https://github.com/kp21-07) — Setting up autocomplete, LSP, and snippets in Neovim
-- 🔗 [Cool Scripts](https://github.com/kp21-07) — A collection of fun and useful utilities
+## 🎯 LeetCode Progress
 
---- -->
+<div align="center">
 
-### Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/kparjanya21">
-    <img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=83A598"/>
-  </a>
-  <a href="mailto:kparjanya21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=FB4934"/>
-  </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/kparjanya21?theme=dark&font=Fira%20Code&ext=contest)
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kparjanya21)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kparjanya21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kp21-07)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *Always learning, always building* ✨
+
+</div>
